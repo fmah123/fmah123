@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fmah123
-- 👀 I’m interested in cyber security and software development.
+- 👀 I’m interested in cyber security, software development and automation testing
 - 🌱 I’m currently learning android development
 - 💞️ I’m looking to collaborate on open source android project
 - 📫 How to reach me fidaamahboob@gmail.com
